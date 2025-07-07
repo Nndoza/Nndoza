@@ -8,7 +8,7 @@ With a background in sales and customer service, I bring strong communication an
 ### AWS re/Start Journey
 The AWS re/Start program has provided me with a solid foundation in cloud technologies and hands-on experience.
 
-I've completed 3 projects, deepening my interest in cloud architecture.
+I've completed some projects, deepening my interest in cloud architecture.
 
 
 ## 🛠️ Skills & Technologies
@@ -50,8 +50,6 @@ In this Lab project, the objectives were to Launch an Amazon RDS DB instance wit
 ### Project 2: Working with Amazon EBS
 [Link to Project Repository/Details]
 
-### Project 3: Implemented a Serverless API with Lambda and API Gateway
-[Link to Project Repository/Details]
 
 ## 🤝 Let's Connect!
 
