@@ -10,6 +10,9 @@ The AWS re/Start program has provided me with a solid foundation in cloud techno
 
 I've completed some projects, deepening my interest in cloud architecture.
 
+## Badges
+
+
 
 ## 🛠️ Skills & Technologies
 
