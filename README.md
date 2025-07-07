@@ -10,14 +10,6 @@ The AWS re/Start program has provided me with a solid foundation in cloud techno
 
 I've completed 3 projects, deepening my interest in cloud architecture.
 
-## ✨ My Goals
-### Short-Term Focus
-Securing an entry-level cloud position to gain real-world experience and build a strong technical foundation.
-
-### Long-Term Aspirations
-Becoming a Cloud Solutions Architect.
-
-Eventually launching my own cloud consulting business.
 
 ## 🛠️ Skills & Technologies
 
@@ -25,27 +17,19 @@ Eventually launching my own cloud consulting business.
 Amazon Web Services (AWS)
 
 ### Core AWS Services
-EC2
-
-S3
-
-RDS
-
-VPC
-
-IAM
-
+EC2,
+S3,
+RDS,
+VPC,
+IAM,
 CloudFormation
 
 (and more from re/Start)
 
 ### Cloud Concepts
-Scalability
-
-Security
-
-Cost Optimization
-
+Scalability,
+Security,
+Cost Optimization,
 Infrastructure as Code (IaC)
 
 ### Soft Skills
@@ -59,6 +43,8 @@ Customer Focus
 During my AWS re/Start program, I have successfully completed 3 hands-on projects that have solidified my understanding of cloud concepts and AWS services.
 
 ### Project 1: Build Your DB Server and Interact With Your DB Using an App
+In this Lab project, the objectives were to Launch an Amazon RDS DB instance with high availability then Configure the DB instance to permit connections from your web server then finally, Open a web application and interact with your database.
+
 [Link to Project Repository/Details]
 
 ### Project 2: Working with Amazon EBS
