@@ -12,7 +12,7 @@ I've completed some projects, deepening my interest in cloud architecture.
 
 ## Badges
 
-
+![image alt](https://github.com/Nndoza/Nndoza/blob/d3e69cdb45e7a58de646f6a0e52de359fa8e2e35/image.png)
 
 ## 🛠️ Skills & Technologies
 
