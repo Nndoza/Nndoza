@@ -54,7 +54,6 @@ In this Lab project, the objectives were to Launch an Amazon RDS DB instance wit
 [Link to Project Repository/Details]
 
 ## 🤝 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/lwando-j-1a9568368/
 
 Email: jakulwando@gmail.com
 
