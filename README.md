@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Lwando Jaku 
-A tech-enthusiast with a passion for cloud computing, currently on my journey through the AWS re/Start program towards becoming a Senior Solutions Architect. 
+A tech-enthusiast with a passion for cloud computing, currently on my journey through the AWS re/Start program towards becoming a Solutions Architect. 
 
 ## 🚀 About Me
 ### Background
