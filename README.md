@@ -3,7 +3,7 @@ A tech-enthusiast with a passion for cloud computing, currently on my journey th
 
 ## 🚀 About Me
 ### Background
-With a background in sales and customer service, I bring strong communication and a customer-focused mindset.
+I have a background in sales and customer service and therefore I bring strong communication and a customer-focused mindset.
 
 ### AWS re/Start Journey
 The AWS re/Start program has provided me with a solid foundation in cloud technologies and hands-on experience.
