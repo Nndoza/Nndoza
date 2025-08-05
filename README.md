@@ -51,6 +51,8 @@ In this Lab project, the objectives were to Launch an Amazon RDS DB instance wit
 [Link to Project Repository/Details]
 
 ### Project 2: Working with Amazon EBS
+In this Lab project, the objectives were to create an EBS volume, attach and mount an EBS volume to an EC2 instance,create a snapshot of an EBS volume and create an EBS volume from a snapshot.
+
 [Link to Project Repository/Details]
 
 
