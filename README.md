@@ -51,7 +51,7 @@ In this Lab project, the objectives were to Launch an Amazon RDS DB instance wit
 https://github.com/Nndoza/AWS-re-start-Program/blob/511f96442a82cb6ceb64437fc490d5fdf57e2aec/Database%20project%20README.md
 
 ### Project 2: Working with Amazon EBS
-In this Lab project, the objectives were to create an EBS volume, attach and mount an EBS volume to an EC2 instance,create a snapshot of an EBS volume and create an EBS volume from a snapshot.
+This project delves into the fundamental aspects of Amazon Elastic Block Store (Amazon EBS), a scalable and high-performance block-storage service for Amazon EC2. The objective was to gain practical experience in the lifecycle management of EBS volumes, from creation and attachment to an EC2 instance, to creating snapshots for data protection and restoring volumes from those snapshots. This hands-on lab provided crucial insights into persistent storage solutions in the AWS Cloud.
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/e583b064e1d707b11d0d4bc89c48a89ec65c510c/Amazon%20EBS%20Project%202%20README.md
 
