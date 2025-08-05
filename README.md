@@ -58,6 +58,8 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/e583b064e1d707b11d0d4bc89c48
 ### Project 3: Build Your VPC and Launch a Web Server
 This project focused on building a customized and secure network infrastructure on AWS using Amazon Virtual Private Cloud, and then deploying a web server within this custom network. The core objective was to understand and implement fundamental networking and security concepts in a cloud environment, culminating in the successful launch of a functional web server accessible via the internet. This hands-on exercise provided crucial experience in creating isolated network environments and controlling traffic flow.
 
+https://github.com/Nndoza/AWS-re-start-Program/blob/d6dd4722ccbfc2390e2e1355e42ca6c51acf3b5d/Building%20a%20VPC%20Project%203%20README.md
+
 
 
 
