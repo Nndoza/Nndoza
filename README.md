@@ -60,6 +60,9 @@ This project focused on building a customized and secure network infrastructure 
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/2455124e31549b85a327724c288180f9a7e2189a/Building%20a%20VPC%20Project%203%20README.md
 
+### Project 4: Project 4: Introduction to AWS Identity and Access Management
+This project provided a comprehensive introduction to AWS IAM, a fundamental service for securely controlling access to AWS resources. The core objective was to explore and apply IAM concepts such as users, user groups, and policies to manage permissions effectively. This hands-on lab simulated a real-world scenario of assigning different levels of access based on job functions, reinforcing the importance of security and access control in the cloud.
+
 
 
 
