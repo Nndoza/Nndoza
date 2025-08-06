@@ -19,7 +19,7 @@ This holistic experience has equipped me with both the technical acumen and the 
 
 ## Badges
 
-![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)       ![image alt](https://github.com/Nndoza/Nndoza/blob/c4ff0dcdfefbe79bd623e00bcb9cb30ac2fb8d49/Certificates/aws-certified-cloud-practitioner%20(6).png)
+![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)       ![image alt](https://github.com/Nndoza/Nndoza/blob/6c8762470b139eb2390c7424215b529783be69cf/Certificates/aws-certified-cloud-practitioner%20(3).png)
 
 
 
@@ -67,14 +67,6 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/69724ed56b6a6ca5c0c361c5e586
 This project focused on exploring multiple methods for launching Amazon EC2 instances, a core compute service in AWS. The objective was to gain hands-on experience in deploying EC2 instances using both the AWS Management Console and the AWS Command Line Interface, including connecting to them securely. This lab provided practical insights into different deployment strategies and the programmatic control of AWS resources.
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/124509aa3ba7a32dab3328fc3e54554a295626c4/EC2%20Instances%20Project%205%20README.md
-
-
-## Certificates Earned
-
-
-
-
-
 
 
 ## 🤝 Let's Connect!
