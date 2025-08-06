@@ -19,7 +19,7 @@ This holistic experience has equipped me with both the technical acumen and the 
 
 ## Badges
 
-![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)       ![image alt](
+![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)       ![image alt](https://github.com/Nndoza/Nndoza/blob/c4ff0dcdfefbe79bd623e00bcb9cb30ac2fb8d49/Certificates/aws-certified-cloud-practitioner%20(6).png)
 
 
 
