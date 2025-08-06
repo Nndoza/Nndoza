@@ -65,6 +65,11 @@ This project provided a comprehensive introduction to AWS IAM, a fundamental ser
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/69724ed56b6a6ca5c0c361c5e586d4a6e6811585/IAM%20Project%204%20README.md
 
+### Project 5: Creating Amazon EC2 Instances
+This project focused on exploring multiple methods for launching Amazon EC2 instances, a core compute service in AWS. The objective was to gain hands-on experience in deploying EC2 instances using both the AWS Management Console and the AWS Command Line Interface, including connecting to them securely. This lab provided practical insights into different deployment strategies and the programmatic control of AWS resources.
+
+
+
 
 
 
