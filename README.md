@@ -19,7 +19,8 @@ This holistic experience has equipped me with both the technical acumen and the 
 
 ## Badges
 
-![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)
+![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png) 
+
 
 ## 🛠️ Skills & Technologies
 
@@ -36,7 +37,7 @@ Presentation Skills
 Customer Focus
 
 ## 📂 Projects
-During my AWS re/Start program, I have successfully completed 3 hands-on projects that have solidified my understanding of cloud concepts and AWS services.
+A showcase of the hands on projects I completed during the intensive AWS re/Start program. Through these practical exercises, I've built a strong foundation in cloud computing and gained valuable experience in designing, deploying, and managing solutions on Amazon Web Services.
 
 ### Project 1: Build Your DB Server and Interact With Your DB Using an App
 This project focuses on establishing a robust and highly available database infrastructure on AWS, and then demonstrating seamless interaction with it via a web application. The core objective was to simulate a common three tier application setup, where a web server communicates with a backend database. This hands on exercise provided crucial experience in deploying managed database services, configuring secure network access, and validating application-to-database connectivity.
@@ -65,6 +66,10 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/69724ed56b6a6ca5c0c361c5e586
 This project focused on exploring multiple methods for launching Amazon EC2 instances, a core compute service in AWS. The objective was to gain hands-on experience in deploying EC2 instances using both the AWS Management Console and the AWS Command Line Interface, including connecting to them securely. This lab provided practical insights into different deployment strategies and the programmatic control of AWS resources.
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/124509aa3ba7a32dab3328fc3e54554a295626c4/EC2%20Instances%20Project%205%20README.md
+
+
+## Certificates Earned
+
 
 
 
