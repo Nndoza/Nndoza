@@ -55,18 +55,22 @@ This project delves into the fundamental aspects of Amazon Elastic Block Store, 
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/e583b064e1d707b11d0d4bc89c48a89ec65c510c/Amazon%20EBS%20Project%202%20README.md
 
+
 ### Project 3: Build Your VPC and Launch a Web Server
 This project focused on building a customized and secure network infrastructure on AWS using Amazon Virtual Private Cloud, and then deploying a web server within this custom network. The core objective was to understand and implement fundamental networking and security concepts in a cloud environment, culminating in the successful launch of a functional web server accessible via the internet. This hands-on exercise provided crucial experience in creating isolated network environments and controlling traffic flow.
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/2455124e31549b85a327724c288180f9a7e2189a/Building%20a%20VPC%20Project%203%20README.md
+
 
 ### Project 4: Introduction to AWS Identity and Access Management
 This project provided a comprehensive introduction to AWS IAM, a fundamental service for securely controlling access to AWS resources. The core objective was to explore and apply IAM concepts such as users, user groups, and policies to manage permissions effectively. This hands-on lab simulated a real-world scenario of assigning different levels of access based on job functions, reinforcing the importance of security and access control in the cloud.
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/69724ed56b6a6ca5c0c361c5e586d4a6e6811585/IAM%20Project%204%20README.md
 
+
 ### Project 5: Creating Amazon EC2 Instances
 This project focused on exploring multiple methods for launching Amazon EC2 instances, a core compute service in AWS. The objective was to gain hands-on experience in deploying EC2 instances using both the AWS Management Console and the AWS Command Line Interface, including connecting to them securely. This lab provided practical insights into different deployment strategies and the programmatic control of AWS resources.
+
 
 
 
