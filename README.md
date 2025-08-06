@@ -71,6 +71,7 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/69724ed56b6a6ca5c0c361c5e586
 ### Project 5: Creating Amazon EC2 Instances
 This project focused on exploring multiple methods for launching Amazon EC2 instances, a core compute service in AWS. The objective was to gain hands-on experience in deploying EC2 instances using both the AWS Management Console and the AWS Command Line Interface, including connecting to them securely. This lab provided practical insights into different deployment strategies and the programmatic control of AWS resources.
 
+https://github.com/Nndoza/AWS-re-start-Program/blob/124509aa3ba7a32dab3328fc3e54554a295626c4/EC2%20Instances%20Project%205%20README.md
 
 
 
