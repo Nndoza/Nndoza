@@ -19,7 +19,7 @@ This holistic experience has equipped me with both the technical acumen and the 
 
 ## Badges
 
-![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)| ![image alt](https://www.credly.com/badges/a4365dfc-995d-4f4e-8f5b-428c1fdd259c/public_url)
+![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)       ![image alt](
 
 
 
