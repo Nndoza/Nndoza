@@ -27,8 +27,7 @@ This holistic experience has equipped me with both the technical acumen and the 
 
 ## 🛠️ Skills & Technologies
 
-I have hands-on experience with the Amazon Web Services (AWS) platform. My skills include core AWS services such as EC2, S3, RDS, VPC, IAM, and CloudFormation. I apply key cloud concepts, including scalability, security, cost optimization, and Infrastructure as Code.
-(and more from re/Start)
+I have hands-on experience with the Amazon Web Services (AWS) platform. My skills include core AWS services such as EC2, S3, RDS, VPC, IAM, and CloudFormation. I apply key cloud concepts, including scalability, security, cost optimization, and Infrastructure as Code and more from re/Start.
 
 ### Soft Skills Include:
 Problem-Solving
