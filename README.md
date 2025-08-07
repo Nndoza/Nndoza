@@ -72,7 +72,7 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/124509aa3ba7a32dab3328fc3e54
 
 ## 🤝 Let's Connect!
 
-Email: jakulwando@gmail.com
+📧Email: jakulwando@gmail.com
 
 Thank you for visiting!
 
