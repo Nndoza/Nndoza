@@ -19,7 +19,7 @@ Recently, I completed the intensive AWS re/Start program, where I built a robust
 This holistic experience has equipped me with both the technical acumen and the client-centric approach vital for a successful career in cloud solutions. I am now focused on securing an entry-level cloud position where I can continue to learn, grow, and gain real-world experience, building a solid technical foundation to progress into a Cloud Solutions Architect role.
 
 
-## Badges
+## 🏆Badges
 
 ![image alt](https://github.com/Nndoza/Nndoza/blob/b9a9d13d9dece35b49ec86ed5296661ea07f41e3/image_resized.png)       ![image alt](https://github.com/Nndoza/Nndoza/blob/6c8762470b139eb2390c7424215b529783be69cf/Certificates/aws-certified-cloud-practitioner%20(3).png)
 
