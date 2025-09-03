@@ -69,6 +69,11 @@ This project focused on exploring multiple methods for launching Amazon EC2 inst
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/124509aa3ba7a32dab3328fc3e54554a295626c4/EC2%20Instances%20Project%205%20README.md
 
+### Project 6: S3 Static Website Hosting
+This project focuses on rebuilding and migrating the Zoe Fitness website from traditional hosting to AWS Cloud. It demonstrates how a static website built with HTML, CSS, and JavaScript can be hosted on AWS S3 and accelerated with CloudFront, secured with SSL, and optimized for global performance using services within the AWS Free Tier.
+
+https://github.com/Nndoza/AWS-re-start-Program/blob/main/Static%20Website%20Project%20README.md
+
 
 
 
