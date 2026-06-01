@@ -42,7 +42,13 @@ Presentation Skills
 
 Customer Focus
 
-## 📂 Projects
+## 📂 Personal Projects 
+This project focuses on AI-Assisted Candidate Screening Platform built with Python, Flask, Docker, and AWS. The application helps recruiters analyze CVs by extracting candidate skills, matching them against job requirements, and generating candidate suitability insights to support faster and more informed hiring decisions. The project is being enhanced with cloud deployment, recruiter-focused workflows, job description matching, and AI-powered candidate evaluation capabilities.
+
+https://github.com/Nndoza/AI-CV-Screening
+
+
+## 📂 Projects 
 A showcase of the hands on projects I completed during the intensive AWS re/Start program. Through these practical exercises, I've built a strong foundation in cloud computing and gained valuable experience in designing, deploying, and managing solutions on Amazon Web Services.
 
 ### Project 1: Build Your DB Server and Interact With Your DB Using an App
@@ -84,6 +90,10 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/main/Static%20Website%20Proj
 
 ## Conclusion
 My journey into cloud computing is a continuous path of learning and growth. This repository represents the initial steps of that journey,a testament to my dedication and the practical skills I've gained in AWS re/start Program. I am excited to apply this foundation in a professional setting, collaborate with others, and continue to build innovative solutions on the AWS platform. 
+
+
+
+
 
 
 ## 🤝 Let's Connect!
