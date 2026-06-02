@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Lwando Jaku 
-Aspiring Cloud and DevOps Engineer with hands-on experience in workflow automation, application testing, and AWS cloud technologies through a current internship at Audit BEE. 
+Aspiring Cloud Engineer with hands-on experience in workflow automation, application testing, and AWS cloud technologies through a current internship at Audit BEE. 
 
 Completed the AWS re/Start programme and continued expanding my cloud expertise by earning the AWS Certified Cloud Practitioner and AWS Certified Solutions Architect – Associate certifications.
 Experienced working with AWS services including Lambda, DynamoDB, CloudFormation, Bedrock, and Textract within collaborative technical environments. 
